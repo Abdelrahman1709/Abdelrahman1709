@@ -17,7 +17,7 @@ I build end-to-end AI systems, from data collection and model training to real-t
 ## 🛠️ Tech Stack
 
 **AI / ML:** TensorFlow, Keras, MediaPipe, OpenCV, Stable Diffusion (SDXL), catVTON, MLflow, scikit-learn
-**Backend:** FastAPI, Django, Firebase (Auth, Firestore, Storage), REST API design
+**Backend:** FastAPI, Django, REST API design
 **Languages:** Python, JavaScript, C++, SQL
 **Tools:** Git, Streamlit, PyAutoGUI
 
